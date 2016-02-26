@@ -1,0 +1,14 @@
+#MavensMate nature exclusions
+config/*
+*.log
+resource-bundles/*
+apex-scripts/*
+*.sublime-project
+*.sublime-settings
+*.sublime-workspace
+
+#Ant config file
+*.properties
+
+#OS X system file
+*.DS_Store
